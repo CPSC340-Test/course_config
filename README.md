@@ -1,2 +1,3 @@
 # course_config
-Testing sample repository used to generate other repositories
+
+This is a testing repository created for sample configuration repositories
